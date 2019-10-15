@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Latihan Layout</string>
+    <string name="makanan_liwet">makanan liwet</string>
+    <string name="rp_6000">Rp. 6000</string>
+    <string name="_0_4_km">0,4 km</string>
+    <string name="_4_7">4.7</string>
+    <string name="ayam">Ayam</string>
+    <string name="kandang_ayam_bojong_soang">Kandang Ayam Bojong Soang</string>
+    <string name="restoran_pilihan">Restoran Pilihan</string>
+    <string name="ii">info</string>
+    <string name="diskon">Diskon Rp. 12.800 untuk Promo Fire...</string>
+    <string name="ekstra">Ekstra diskon 40% pakai OVO</string>
+</resources>
